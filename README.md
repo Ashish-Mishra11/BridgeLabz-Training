@@ -167,3 +167,17 @@ BridgeLabz-Training/
 👉 [Day 3 – scenario-based](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
 ---
+### 🗓 Day 4 – Leet Code and Scenario Based problems  
+*(Date: 26-Dec-2025)*
+
+- Practiced and Solved Leet Code questions on Arrays.
+- Solved Scenario based prblems.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**
+👉 [Day 4 – Leetcode](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
+
+👉 [Day 4 – Scenario based](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/core-java-practice/scenario-based/day-2)
+
+---

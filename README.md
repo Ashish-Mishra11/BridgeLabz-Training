@@ -181,3 +181,16 @@ BridgeLabz-Training/
 👉 [Day 4 – Scenario based](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/core-java-practice/scenario-based/day-2)
 
 ---
+### 🗓 Day 5 – Leet Code Problems of Arrays and Strings
+*(Date: 27-Dec-2025)*
+
+- Practiced and Solved Leet Code questions on Arrays and Strings.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**
+👉 [Day 5 – Leetcode Arrays](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
+
+👉 [Day 5 – Strings](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings)
+
+---

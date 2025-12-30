@@ -194,3 +194,16 @@ BridgeLabz-Training/
 👉 [Day 5 – Strings](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings)
 
 ---
+## 📅 Week 3: Extra practice on leetcode questions & scenario based problems
+
+### 🗓 Day 1 – Scenario-Based problems
+**(Date: 29-Dec-2025)**
+
+- Solved **5 scenario-based problems** using Java.
+- Focused on logical thinking and clean code.
+- Committed and pushed all solutions.
+
+🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/core-java-practice/scenario-based/day-3) 
+
+---

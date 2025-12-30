@@ -124,7 +124,7 @@ BridgeLabz-Training/
 👉 [Day 1 – Strings](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
 ---
-### 🗓 Day 2 – Extra Built-in Functions & String Practice  
+### 🗓 Day 2 – Built-in Functions & String Practice  
 **(Date: 23-Dec-2025)**
   
 - Practiced Java built-in classes such as `Math` and `Random`.
@@ -150,7 +150,7 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
   
 🔗 **Code Link:**  
-👉 [Day 2 – Extras](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+👉 [Day 2 – Built-In](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ---
 ### 🗓 Day 3 – Leet Code and Scenario Based problems  
@@ -194,7 +194,7 @@ BridgeLabz-Training/
 👉 [Day 5 – Strings](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings)
 
 ---
-## 📅 Week 3: Extra practice on leetcode questions & scenario based problems
+## 📅 Week 3: practice on leetcode questions & scenario based problems
 
 ### 🗓 Day 1 – Scenario-Based problems
 **(Date: 29-Dec-2025)**

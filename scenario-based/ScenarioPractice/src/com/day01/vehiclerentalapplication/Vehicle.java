@@ -11,7 +11,7 @@ public abstract class Vehicle implements Rentable {
         this.baseRatePerDay = baseRatePerDay;
     }
 
-    // Encapsulation via getters
+
     public int getVehicleId() {
         return vehicleId;
     }

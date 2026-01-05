@@ -20,7 +20,7 @@ BridgeLabz-Training/
 |   |               |── stacks/
 |   |
 │ 	│── leet-code-codebase/
-│ 	│── scenario-based-codebase/
+│ 	│── scenario-based/
 │── README.md
 ```
 - Studied basics of data structure & algorithms.

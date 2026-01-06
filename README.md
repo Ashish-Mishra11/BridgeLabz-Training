@@ -17,6 +17,7 @@ BridgeLabz-Training/
 |   |               |── hashmaps/
 |   |               |── linkedlists/
 |   |               |── queues/
+|   |               |── sorting/
 |   |               |── stacks/
 |   |
 │ 	│── leet-code-codebase/

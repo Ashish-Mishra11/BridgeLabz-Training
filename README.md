@@ -93,6 +93,49 @@ BridgeLabz-Training/
 - 🔗 **Code Link:**  
 👉 [Runtime Analysis & Big-O Notation](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/analysis)
 
+### 🗓 Day 20 – Trees & Binary Search Trees  
+**(Date: 13-Jan-2026)**
+- Studied Tree fundamentals:
+  - Tree as a hierarchical, non-linear data structure
+  - Real-world examples (file system, organization chart, family tree, DOM)
+- Learned Tree terminologies:
+  - Node, Root, Parent, Child, Siblings
+  - Leaf, Internal Node, Edge, Path, Subtree
+  - Ancestor, Descendant, Degree, Depth, Level, Height
+- Studied types of trees:
+  - Binary Tree
+  - Full Binary Tree
+  - Complete Binary Tree
+  - Perfect Binary Tree
+  - Balanced Binary Tree
+- Studied Tree Traversal algorithms:
+  - Inorder (Left → Root → Right)
+  - Preorder (Root → Left → Right)
+  - Postorder (Left → Right → Root)
+  - Level Order (Breadth-First)
+- Studied Binary Search Trees (BST):
+  - BST properties and validation
+  - Searching in BST
+  - Insertion in BST
+  - Deletion in BST (leaf, one child, two children)
+- Learned advantages, disadvantages, and applications of BST.
+
+### 🗓 Day 21 – Graphs, DFS & BFS  
+**(Date: 15-Jan-2026)**
+- Introduction to graphs and graph theory  
+- Vertices, edges, degree, path, and cycle  
+- Types of graphs:
+  - Directed and undirected  
+  - Weighted and unweighted  
+  - Connected and disconnected  
+- Graph representations:
+  - Adjacency List  
+  - Adjacency Matrix  
+- Graph traversal techniques:
+  - Depth First Search (DFS)  
+  - Breadth First Search (BFS)  
+- Applications of DFS and BFS  
+- Basic graph-based problem solving  
 
 ---
 ## 🧩 Section B : Scenario-Based Problems Progress
@@ -121,5 +164,32 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/dsa-practice/scenario-based/ScenarioPracticeDSA/src/com/day03)
 
+### 🗓 Day 23 – Scenario-Based Practice  
+**(Date: 15-Jan-2026)**
+- Solved **5** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/dsa-practice/scenario-based/ScenarioPracticeDSA/src/com/day04)
+
+### 🗓 Day 24 – Scenario-Based Practice  
+**(Date: 16-Jan-2026)**
+- Solved **3** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/dsa-practice/scenario-based/ScenarioPracticeDSA/src/com/day05)
+
+### 🗓 Day 25 – Scenario-Based Practice  
+**(Date: 17-Jan-2026)**
+- Solved **4** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/dsa-practice/scenario-based/ScenarioPracticeDSA/src/com/day06)
+
+
 ---
 ## 🧮 Section C : LeetCode-based Problems Progress
+
+---

@@ -198,5 +198,5 @@ BridgeLabz-Training/
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
-👉 [LeetCode Problems - LinkedLists](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/dsa-practice/leet-code-codebase/arrays)
+👉 [LeetCode Problems](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/dsa-practice/leet-code-codebase/arrays)
 ---

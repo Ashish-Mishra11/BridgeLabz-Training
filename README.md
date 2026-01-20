@@ -206,4 +206,15 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
 👉 [LeetCode Problems](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/dsa-practice/leet-code-codebase/arrays)
+
+### 🗓 Day 26 – LeetCode-based Practice  
+**(Date: 19-Jan-2026)**
+- Practiced **1** DSA problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems - LinkedLists](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/dsa-practice/leet-code-codebase/arrays)
+
+---
+
 ---

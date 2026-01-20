@@ -173,6 +173,13 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/java-oops-practice/scenario-based/ScenarioPractice/src/com/day08)
 
+### 🗓 Day 23 – Scenario-Based Practice  
+**(Date: 13-Jan-2026)**
+- Solved **2** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/java-oops-practice/scenario-based/ScenarioPractice/src/com/day09)
 
 ---
 ## 🧮 Section C : LeetCode-based Problems Progress

@@ -64,3 +64,26 @@ BridgeLabz-Training/
 - 🔗 **Code Link:**  
 👉 [List, Set, Queue & Map](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections)
 
+### 🗓 Day 24 – Java I/O Streams  
+**(Date: 19-Jan-2026)**
+- Studied Java I/O Streams architecture and stream-based data handling.
+- Covered Byte Streams and Character Streams for file operations.
+- Learned and implemented:
+  - `FileInputStream`, `FileOutputStream`
+  - `FileReader`, `FileWriter`
+  - `BufferedInputStream`, `BufferedOutputStream`
+  - `BufferedReader`, `BufferedWriter`
+- Understood Object Streams:
+  - `ObjectInputStream`, `ObjectOutputStream`
+  - Serialization and deserialization
+- Practiced in-memory streams:
+  - `ByteArrayInputStream`, `ByteArrayOutputStream`
+- Used bridge streams:
+  - `InputStreamReader`, `OutputStreamWriter`
+- Applied try-with-resources, buffering, and performance best practices.
+- Solved practical problems including file copy, serialization, and efficient large-file reading.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Java I/O Streams](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
+
+

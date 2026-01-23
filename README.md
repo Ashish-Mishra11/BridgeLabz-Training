@@ -75,7 +75,10 @@ BridgeLabz-Training/
 │   │  └── 📁 JavaCollectionsPractice/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               └── 📁 generics/          # 
+│   │               └── 📁 generics/          
+|   |               └── 📁 streams/
+|   |               └── 📁 collections/
+|   |               └── 📁 exceptionhandling/
 |   |
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
@@ -197,6 +200,9 @@ BridgeLabz-Training/
 
 ### `java-collections-practice` :
 - 📌 [Generics](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
+- 📌 [Collections](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections)
+- 📌 [I/O Streams](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
+- 📌 [Exception Handling](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptionhandling)
 ---
 
 ## 🎓 Learnings & Best Practices

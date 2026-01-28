@@ -162,3 +162,22 @@ BridgeLabz-Training/
 👉 [Annotations](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotations) <br>
 👉 [Reflection](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflection)
 
+
+---
+## 🧩 Section B : Scenario-Based Problems Progress
+
+### 🗓 Day 28 – Scenario-Based Practice  
+**(Date: 23-Jan-2026)**
+- Solved **5** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/java-collections-practice/scenario-based/ScenarioPracticeCollections/src/com/day01)
+
+### 🗓 Day 29 – Scenario-Based Practice  
+**(Date: 24-Jan-2026)**
+- Solved **5** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Ashish-Mishra11/BridgeLabz-Training/tree/java-collections-practice/scenario-based/ScenarioPracticeCollections/src/com/day02)
